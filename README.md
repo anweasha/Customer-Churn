@@ -13,7 +13,7 @@ Members:
 - [Dataset](https://github.com/anweasha/Customer-Churn/blob/main/customerchurn.txt)
 - [Jupyter Notebook](https://github.com/anweasha/Customer-Churn/blob/main/Customer_Churn.ipynb)
 - [Project Report](https://github.com/anweasha/Customer-Churn/blob/main/Data%20MiningReport.docx)
-- [PowerPoint Presentation]()
+- [PowerPoint Presentation](https://github.com/anweasha/Customer-Churn/blob/main/Data%20Mining%20ppt.pptx)
 
 > Overview
 - In this project, we have used customer credit card data and customer churn has been predicted on its basis.
