@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+[Try the web application here.](https://customer-churn-predictor.herokuapp.com/)
+
 ### Mini Project for Data Mining and Analytics (18CSE355T)
 
 Members:
@@ -23,6 +25,8 @@ Members:
 - The random forest model was more effective in its prediction than Decision Tree with a slightly better F1 score.
 
 ---
+
+> **WEB APPLICATION -** [Customer Churn Prediction](https://customer-churn-predictor.herokuapp.com/)
 
 ![WhatsApp Image 2021-11-24 at 10 48 52 PM](https://user-images.githubusercontent.com/86158020/143285505-314f0a9f-f8d6-466e-ae4a-a15c8c940ee9.jpeg)
 ![WhatsApp Image 2021-11-24 at 10 48 53 PM](https://user-images.githubusercontent.com/86158020/143285795-e36542b4-3a81-4b58-a0dd-05c419a1dd5a.jpeg)
